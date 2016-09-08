@@ -1,0 +1,3 @@
+# flaskapp
+
+This Project is created for basic sample for dockerizing Flaskapp ...
